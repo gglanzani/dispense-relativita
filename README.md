@@ -1,4 +1,5 @@
-dispense-relativita
+Dispense di relatività ristretta
 ===================
 
-Dispense di relatività ristretta (Marchetti-UniPD)
+Le note, trasformate in LaTeX, dalle lezioni di relatività ristretta data dal 
+Prof. Dr. Marchetti all'Università degli Studi di Padova.
