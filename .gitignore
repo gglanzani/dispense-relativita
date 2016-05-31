@@ -65,6 +65,7 @@
 *.maf
 *.mtc
 *.mtc0
+*.mtc*
 
 # minted
 *.pyg
